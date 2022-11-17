@@ -1,0 +1,19 @@
+.friends {
+    display: flex;
+    align-items: center;
+    padding-bottom: 25px;
+    cursor: pointer;
+}
+
+.friend-img {
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.rightbarProfileImg-friend{
+    height:100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius:50%;
+}
